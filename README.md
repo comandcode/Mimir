@@ -1,6 +1,6 @@
 <img width="283" height="380" alt="image" src="https://github.com/user-attachments/assets/f4e3be80-79fe-4e10-b010-9a39b5f70584" />
 
-# M.I.M.I.R - Multi-agent Intelligent Memory & Insight Repository 
+# M.I.M.I.R - Multy-agent Intelligent Memory & Insight Repository 
 
 ## AI-Powered Memory Bank + Task Management Orchestration with Knowledge Graphs
 
